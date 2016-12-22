@@ -68,6 +68,11 @@
 #define ZT_WORLD_ID_EARTH 149604618
 
 /**
+	*BT CHANGES
+*/
+#define ZT_WORLD_ID_MAGRATHEA 5000000042
+
+/**
  * World ID for Mars -- for future use by SpaceX or others
  */
 #define ZT_WORLD_ID_MARS 227883110
